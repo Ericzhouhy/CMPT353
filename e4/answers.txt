@@ -1,0 +1,3 @@
+1. Yes, we can see there's a positive correlation between population density and citie's temperature. The higher the tempreature is the higher the population density is, and the correlation is more obvious when temperature is between 7~30 C, as a result we are able to predict population density using citie's temperature.
+
+2. A large json file may take longer to read compared with an efficient decompressing algorithm, and our analysis not required string manipulation we only need the data inside the file not requiring further processing, so we don't need to working with an uncompressed .json or .csv file.

@@ -1,0 +1,2 @@
+1. I prefer Kalman smoothing. Some points in the chart were kept by Kalman smoothing but not Loess
+2. We are able to provide a more accurate prediction by calculating the relationship between those attributes. Combine the data from the accelerometer and gyroscope and integrate the measurements from multiple sensors to obtain a more accurate and reliable estimate of the user's motion and orientation.

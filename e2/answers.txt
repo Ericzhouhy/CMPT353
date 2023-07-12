@@ -1,0 +1,4 @@
+1.	The result of the calculation is the predict value of rating data based on the timestamp of that rating.
+	The type is of value is "Series" and the value is the predicted result by the hypothesis
+
+2.	The line is produced based on the slope and intercept value we caluculated by linregress function for predicting rating by timestamp. And the reason for created_at values and timestamp values paired correctly is the data[timestamp] is another form of created_at value. All the date data could be transformed into a timestamp number and it's invertible.
