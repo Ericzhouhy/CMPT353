@@ -1,0 +1,20 @@
+          mean_X     mean_Y      std_X      std_Y                                   range_X                                   range_Y  corr_coeff
+data1   8.717696  12.522874  12.155517   6.639964  [-22.635877790008944, 35.23705548785129]   [-2.565087832693213, 27.38415261152477]    0.950326
+data2  -0.710787  -0.748987  11.481584   6.257918     [-33.2711130771198, 27.6470003722073]  [-18.621803760419063, 14.14731499231748]    0.955153
+data3   0.968907   8.508535   2.235558   1.149301   [-2.4490643296742807, 4.51888491755363]   [6.641734490391763, 10.551871022804317]    0.981937
+data4  49.905086  18.553837  28.508611  16.545896                            [0.0, 87.3767]                           [0.0, 44.56504]   -0.081193
+data5  49.909994  18.555525  28.500001  16.540796     [4.337892453674525, 91.0528633396976]   [0.0554975075811517, 49.93419703633311]   -0.088236
+data6   7.216155   7.602215  11.921599  11.764382     [-24.33382075234097, 35.402138910929]    [-22.9563569970746, 36.07987403078143]    0.935069
+
+Descriptions:
+data1: The data displays a strong positive correlation, all the data points are scattered around a straight line and the range x located near [-23,35] and range y located near [-3,27]
+
+data2: The data displays a strong positive correlation, and most of the data points are scattered around a straight line, but comparing with the first graph, this data has more noise
+
+data3: The data was gathered into four groups, and the linear regression line has a positive slope.
+
+data4: The data plots an SFU logo.
+
+data5: This data has weak correlation and the points plots five vertical parallel line.
+
+data6: This data displays a extremly strong positive correlation, the data points are scattered around a straight line except two outliers. 

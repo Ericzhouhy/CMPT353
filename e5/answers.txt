@@ -1,0 +1,13 @@
+1.
+The sqrt transforms gave me the bestresult to satisfy my assumption.
+
+2.
+Original:
+	If the null hypothesis was rejected, we can conclude the amount of the weekend comments and the weekday comments are different.
+Transformed:
+	If the null hypothesis was rejected, we can conclude that the square root of number of comments on weekends and weekdays are different.
+
+3.
+I prefer central limit theorem, as in this situation, we have a large enough sample size so we can assume the results are normal.
+
+4. weekdays

@@ -1,0 +1,10 @@
+1.
+Bayesian classifier:     0.526  0.604
+kNN classifier:          0.708  0.725
+Rand forest classifier:  0.713  0.739
+As Rand forest classifier has the highest score, it did the best for the colour-prediction.
+The rand forest classifier leverages the power of multiple trees and their collective decision-making to achieve better accuracy.
+Different color spaces encode color information differently, and the choice of color space can impact the performance of certain models.
+
+2.
+Yes, the model seems to make reasonable mistakes since some nearby city has similar weather condition, adding some other data like longitude and latitude might work better.

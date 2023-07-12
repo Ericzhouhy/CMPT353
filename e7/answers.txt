@@ -1,0 +1,6 @@
+1.
+Yes, residuals are close enough to being normal to look at the OLS p-value and as p-value = 2.536*10^-127, it's small enough to reject H0 so we can conclude the rating is increasing.
+
+
+2. 
+Yes, it get more data than the previous one

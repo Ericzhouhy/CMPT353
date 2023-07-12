@@ -1,0 +1,25 @@
+1.
+No, it's not p-hacking, as we don't care so much about all users, and instructors are person who can get more useful information from the search feature, it's resonable to get rid of the samples who rarely use the feature.
+I feel comfortable to conclude p<0.05 as our p value is 0.045
+
+2.
+7!/2!(7-2)! = 21,
+the possible of making a false conclusion is (1-(1-0.05)^21) = 65.9%
+
+3. 
+From my data:
+Mean time of qs1 is:  0.0020073833465575905
+Mean time of qs2 is:  0.0023223571777343482
+Mean time of qs3 is:  0.0022355046272277573
+Mean time of qs4 is:  0.002095101833343481
+Mean time of qs5 is:  0.0018572635650634525
+Mean time of mergesort is:  0.0024282784461974833
+Mean time of partition is:  0.0013918986320495387
+The rank is (From highr to low):
+mergeSort,
+qs2,
+qs3,
+qs4,
+qs1,
+qs5,
+partition
