@@ -1,0 +1,4 @@
+1. The sum calculation for both pd and np are same, Numpy is relatively easier to work with, but Panda is relatively easier to read. 
+2. 
+	For pivot_months_pandas(data) the result is 10.1 ms ± 600 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
+	For pivot_months_loops(data) the resut is: 1.11 s ± 25.4 ms per loop (mean ± std. dev. of 7 runs, 1 loop each)
