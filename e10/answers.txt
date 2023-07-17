@@ -1,0 +1,7 @@
+1.
+(1) the reddit-0 data set takes 0m15.657s
+(2) no schema specified and not caching data set takes 0m29.610s
+(3) with a schema but not caching data set takes 0m29.610s
+(4) with both a schema and caching data set takes 0m28.318s
+
+
