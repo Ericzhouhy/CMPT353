@@ -4,4 +4,8 @@
 (3) with a schema but not caching data set takes 0m29.610s
 (4) with both a schema and caching data set takes 0m28.318s
 
+2.
+The time took by reddit-0 is around 15.657s and the time took by reddit-2 for other 3 approach is around 30s but below 30s so we can conclude reading file and calculating average took almost same time, but reading file took slightly more time.
 
+3.
+I use .cache() after cleaning data and before groupBy function, that's in my line 34
