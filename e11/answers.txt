@@ -1,0 +1,7 @@
+1.
+I placed the cache() after read the json, after remove data, and after all the groupbys.
+If I didn't use .cache(), the variables will be unnecessarily recalculated, and it will increase the total runtime of program.
+2.
+with broadcast the execute time is 55s
+without broadcast takes 65s
+the usage of broadcast decrease the running time
